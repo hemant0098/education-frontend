@@ -1,0 +1,46 @@
+.testimonials-section {
+  padding: 50px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.testimonials-section h2 {
+  color: #004aad;
+  margin-bottom: 40px;
+  font-size: 2.5rem;
+}
+
+.testimonial-card {
+  background: white;
+  padding: 20px;
+  max-width: 345px;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.reviewer-image {
+  width: 270px;
+  height: 215px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+
+.reviewer-name {
+  font-weight: bold;
+  color: #004aad;
+  margin-top: 10px;
+}
+
+.review-text {
+  margin-top: 10px;
+  font-style: italic;
+  padding: 0 10px;
+}
+
+/* Swiper Pagination Dots Styling (optional) */
+.swiper-pagination-bullet {
+  background: #004aad;
+}
