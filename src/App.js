@@ -11,10 +11,10 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/courses" element={<Courses />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/education-frontend/" element={<Home />} />
+        <Route path="/education-frontend/courses" element={<Courses />} />
+        <Route path="/education-frontend/about" element={<About />} />
+        <Route path="/education-frontend/contact" element={<Contact />} />
       </Routes>
       <Footer />
     </>
