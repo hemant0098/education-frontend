@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/education-frontend/static/css/main.a84e59ca.css",
-    "main.js": "/education-frontend/static/js/main.a31a4eb0.js",
+    "main.js": "/education-frontend/static/js/main.abd786a4.js",
     "index.html": "/education-frontend/index.html",
     "main.a84e59ca.css.map": "/education-frontend/static/css/main.a84e59ca.css.map",
-    "main.a31a4eb0.js.map": "/education-frontend/static/js/main.a31a4eb0.js.map"
+    "main.abd786a4.js.map": "/education-frontend/static/js/main.abd786a4.js.map"
   },
   "entrypoints": [
     "static/css/main.a84e59ca.css",
-    "static/js/main.a31a4eb0.js"
+    "static/js/main.abd786a4.js"
   ]
 }
