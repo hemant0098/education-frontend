@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/education-frontend/static/css/main.a84e59ca.css",
+    "main.js": "/education-frontend/static/js/main.d93b24d7.js",
+    "index.html": "/education-frontend/index.html",
+    "main.a84e59ca.css.map": "/education-frontend/static/css/main.a84e59ca.css.map",
+    "main.d93b24d7.js.map": "/education-frontend/static/js/main.d93b24d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a84e59ca.css",
+    "static/js/main.d93b24d7.js"
+  ]
+}
